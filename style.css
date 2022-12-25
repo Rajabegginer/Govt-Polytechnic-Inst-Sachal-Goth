@@ -168,6 +168,11 @@ li.dropdown {
     border-radius: 12px;
 }
 
+.faculity .faculity-box img {
+    
+     max-height: 178px;
+}
+
 .faculity .faculity-box:hover {
     cursor: pointer;
     opacity: 1;
